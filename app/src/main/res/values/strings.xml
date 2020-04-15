@@ -1,0 +1,19 @@
+<resources>
+    <string name="login">Đăng nhập</string>
+    <string name="home">Thể loại</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Novels Life</string>
+    <string name="nav_header_subtitle">localhost</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_logout">Đăng xuất</string>
+
+    <string name="menu_home">Trang chủ</string>
+    <string name="menu_theloai">Thể loại</string>
+    <string name="menu_favorite">Favorite</string>
+
+    <string name="home_second">Home Second</string>
+    <string name="title_activity_home_main">HomeMainActivity</string>
+    <string name="title_activity_main">MainActivity</string>
+</resources>
