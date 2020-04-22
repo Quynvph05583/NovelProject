@@ -1,0 +1,6 @@
+<resources>
+    <string name="login">Đăng nhập</string>
+    <string name="home">Trang chủ</string>
+    <string name="category">The loai</string>
+    <string name="stories">Danh sach truyen</string>
+</resources>
